@@ -1,0 +1,22 @@
+[
+    {
+      "id": 1,
+      "name": "Mohamed",
+      "description": "Mohamed is a community leader who helps organize local charity events.",
+      "donation": 0
+    },
+    {
+      "id": 2,
+      "name": "Manar",
+      "description": "Manar Smith is an active volunteer with a passion for environmental causes.",
+      "donation": 0
+    },
+    {
+      "id": 3,
+      "name": " Nada",
+      "description": "Nada is known for his contributions to educational programs for underprivileged children.",
+      "donation": 0
+    }
+
+  ]
+  
