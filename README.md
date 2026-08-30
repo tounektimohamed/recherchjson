@@ -1,17 +1,42 @@
-# test
+<div align="center">
 
-A new Flutter project.
+<h1>Recherche JSON 🔎</h1>
 
-## Getting Started
+**recherchjson** is a C++ tool for searching through JSON data efficiently.
 
-This project is a starting point for a Flutter application.
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 
-A few resources to get you started if this is your first Flutter project:
+</div>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
+## 📖 Overview
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# recherchjson
+**recherchjson** is a C++ tool for searching through JSON data efficiently.
+
+## ✨ Features
+
+- JSON parsing & search
+- Fast C++ implementation
+
+
+## 🛠 Tech Stack
+
+C++.
+
+## 🚀 Getting Started
+
+```bash
+git clone <repo-url>
+cd <repo>
+make && ./<binary>   # or use your favorite C++ toolchain
+```
+
+## 📬 Contact
+
+- **Email:** tounekti17@gmail.com
+- **LinkedIn:** [tounekti-mohamed](https://www.linkedin.com/in/tounekti-mohamed-b38935213/)
+- **GitHub:** [tounektimohamed](https://github.com/tounektimohamed)
+
+---
+
+<div align="center">Built with ❤️ by **Mohamed Tounekti**</div>
